@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: pdf
 title: Cirriculum Vitae
-permalink: /cv/
 ---
 
 
