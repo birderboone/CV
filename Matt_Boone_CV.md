@@ -1,6 +1,6 @@
 ---
 layout: pdf
-title: Cirriculum Vitae
+urlcolor: blue
 ---
 
 
