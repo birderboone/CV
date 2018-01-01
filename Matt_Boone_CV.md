@@ -27,6 +27,11 @@ Dr. Michael Ryan
 >•	Assisted in a study on the effect of gonad size on mating system choice by surgically removing the gonad of Swordtails (genus Xiphphorus), dried, and weighed samples.
 
 ## Work Experience
+**Black Rail Technician** *Jan 14 – Mar 31, 2018*  
+**Texas State University**, TX  
+>•	Capture and band Black and Yellow Rails using drag-lining techniques in wet prairies on Brazoria and San Bernard NWR.  
+•	Track banded birds using radio telemetry and conduct vegetation surveys of wetland species.  
+
 **Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
 *Intensive Forest Management*    
@@ -99,7 +104,7 @@ Dr. Michael Ryan
 *2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management** (University of Delaware)    
 
 ## Volunteer/Service
-*2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe TX counties  
+*2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe counties in TX  
 *2016* **Outreach Coordinator KESRP** - Create media, plan upcoming events, interact with public and responding to requests for information  
 *2015/2014 (January)* **Volunteer** *University of Central Oklahoma* – Drag lining, hand-netting captures, and mist-netting for Black Rails/Yellow Rails/Ammodramus Sparrows  
 *2015* **Co-leader and Founder** *R Club University of Delaware* – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.  
