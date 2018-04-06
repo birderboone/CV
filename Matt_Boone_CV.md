@@ -27,6 +27,12 @@ Dr. Michael Ryan
 >•	Assisted in a study on the effect of gonad size on mating system choice by surgically removing the gonad of Swordtails (genus Xiphphorus), dried, and weighed samples.
 
 ## Work Experience
+**Woodpecker Crew Leader** *April 30 – Aug 03, 2018*  
+**U.S.D.A Forest Service**, OR  
+>•	Manage logistics and field crew of three technicians.  
+•	Perform transect surveys for Woodpeckers across Southern Oregon for presence and nesting in thined portions of Winema-Fremont NF.  
+• Monitor nesting success and outcomes to calculate fecundity of Woodpecker population.  
+
 **Black Rail Technician** *Jan 14 – Mar 31, 2018*  
 **Texas State University**, TX  
 >•	Capture and band Black and Yellow Rails using drag-lining techniques in wet prairies on Brazoria and San Bernard NWR.  
