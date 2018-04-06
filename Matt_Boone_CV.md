@@ -38,7 +38,7 @@ Dr. Michael Ryan
 >•	Capture and band Black and Yellow Rails using drag-lining techniques in wet prairies on Brazoria and San Bernard NWR.  
 •	Track banded birds using radio telemetry and conduct vegetation surveys of wetland species.  
 
-**Crew Leader** *May 1, 2017 – September 30, 2017*  
+**Avian Point Count Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
 *Intensive Forest Management*    
 > •	Trained technicians on identifying 80+ birds of the Pacific Northwest by sight and sound  
