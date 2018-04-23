@@ -29,7 +29,7 @@ Dr. Michael Ryan
 ## Work Experience
 **Woodpecker Crew Leader** *April 30 – Aug 03, 2018*  
 **U.S.D.A Forest Service**, OR  
->•	Manage logistics and safety of three technicians in logged forest stands of the Winema-Freemont National Forest
+>•	Manage logistics and safety of three technicians in logged forest stands of the Winema-Fremont National Forest
 •	Perform transect surveys for presence of Woodpeckers across Southern Oregon in thinned forests.
 •	Monitor nesting success and outcomes to calculate fecundity of Woodpecker population.    
 
