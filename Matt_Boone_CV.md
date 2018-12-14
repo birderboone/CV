@@ -6,7 +6,7 @@ urlcolor: blue
 
 Matthew E. Boone  
 ============================================  
-[mttboone@gmail.com](mailto:mttboone@gmail.com)   
+[m.boone@ufl.edu](m.boone@ufl.edu)   
 512.426.7966  
 [@birderboone](https://twitter.com/birderboone)  
 
@@ -26,7 +26,25 @@ Dr. Jeffrey J. Buler
 Dr. Michael Ryan  
 >•	Assisted in a study on the effect of gonad size on mating system choice by surgically removing the gonad of Swordtails (genus Xiphphorus), dried, and weighed samples.
 
-## Work Experience
+## Data Experience
+
+**Data Manager and Analyst** *August 2018 - Present*
+**MabLab (Dr. Mathieu Basille), University of Florida - Ft. Lauderdale REC**, FL  
+> • Analyze and manage data from satellite tagged species including wading birds, raccoons, and sea turtles. Data stored in PostGRES DB and analyzed in R and GRASS.  
+> • Co-create an R package to analyze nesting site selection and fate outcome from satellite tagged birds. Includes creation of a SHINY app to act as a GUI for the engine.  
+> • Collaborating closely on projects with Ph.D student, PostDoc, and field technician in lab. Includes writing, editing, and data preparation for manuscript submissions on all projects.   
+> • Manage PostGRES databases and IT workload for multiple lab computers running completely in a Linux environment.  
+
+**Data Manager and Analyst** *April 2016 – April 2017*  
+**Kauai Endangered Seabird Recovery Project**, HI  
+> •	Analyzed field data and created maps using R and ArcGis 10.3. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL. Maintained integrity and QA/QC of databases.  
+•	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
+•	Managed up to nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
+•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.  
+•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
+•	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.  
+
+## Field Experience
 **Woodpecker Crew Leader** *April 30 – Aug 03, 2018*  
 **U.S.D.A Forest Service**, OR  
 >•	Manage logistics and safety of three technicians in logged forest stands of the Winema-Fremont National Forest
@@ -48,15 +66,6 @@ Dr. Michael Ryan
 *Retained Structures Project*  
 >•	Trapped and ear tagged small mammals of the Cascades using Sherman and Tomahawk traps.  
 •	Marked and measured created tree plots by measuring DBH and height of trees.  
-
-**Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
-**Kauai Endangered Seabird Recovery Project**, HI  
-> •	Analyzed field data and created maps using R and ArcGis 10.3. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL. Maintained integrity and QA/QC of databases.  
-•	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
-•	Managed up to nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
-•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.  
-•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
-•	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.  
 
 **Marshbird Field Technician** *May 1 – August 15, 2014*  
 **University of Delaware**, DE  
@@ -133,6 +142,9 @@ Dr. Michael Ryan
 
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
 
+## Software
+**Fournier AMV, Boone ME, Stevens FR, Bruna E.** refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet  
+
 ## Posters
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
 > •	The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
@@ -170,8 +182,8 @@ Dr. Michael Ryan
 **Banding (Birds)** 
 > • Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
 
-**Tagging (Mammals)**  
-> • Ear tagged approximately 50 small mammals from the Cascades Mountains.  
+**Trapping (Mammals)**  
+> • Trapping mammals with the use of sherman traps, Haveahart, tomahawk, and kill traps (pest species). Tagging and processing of small mammals and raccoons, including taking morphometrics and drawing blood. 
 
 **Biological Surveys**  
 > • Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.  
