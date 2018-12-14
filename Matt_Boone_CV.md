@@ -41,7 +41,7 @@ Dr. Michael Ryan
 •	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
 •	Managed up to nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
 •	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.  
-•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
+•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.  
 •	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.  
 
 ## Field Experience
