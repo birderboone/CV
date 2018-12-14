@@ -30,7 +30,7 @@ Dr. Michael Ryan
 
 **Data Manager and Analyst** *August 2018 - Present*  
 **MabLab (Dr. Mathieu Basille), University of Florida - Ft. Lauderdale REC**, FL  
-> • Analyze and manage data from satellite tagged species including wading birds, raccoons, and sea turtles. Data stored in PostGRES DB and analyzed in R and GRASS.  
+> • Analyze and manage data from satellite tagged species including wading birds, raccoons, and sea turtles. Data stored in PostGRES DB and analyzed in R and QGIS.  
 > • Co-create an R package to analyze nesting site selection and fate outcome from satellite tagged birds. Includes creation of a SHINY app to act as a GUI for the engine.  
 > • Collaborating closely on projects with Ph.D student, PostDoc, and field technician in lab. Includes writing, editing, and data preparation for manuscript submissions on all projects.   
 > • Manage PostGRES databases and IT workload for multiple lab computers running completely in a Linux environment.  
