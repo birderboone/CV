@@ -110,21 +110,6 @@ Dr. Michael Ryan
 **Golden-cheeked Warbler Field Technician** *March 14 - July 7, 2010*  
 **Texas A&M University**, TX  
 > •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
-
-## Professional Development
-*2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tucson, AZ)  
-*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
-*2015* **Instructor** 'Taking R to the Next Level' **Workshop AOU/COS meeting** (Norman, OK)  
-*2015* **Guest Lecturer** ‘Programming and Data Processing in R’ **Introduction to R** (University of Delaware)    
-*2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management** (University of Delaware)    
-
-## Volunteer/Service
-*2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe counties in TX  
-*2016* **Outreach Coordinator KESRP** - Create media, plan upcoming events, interact with public and responding to requests for information  
-*2015/2014 (January)* **Volunteer** *University of Central Oklahoma* – Drag lining, hand-netting captures, and mist-netting for Black Rails/Yellow Rails/Ammodramus Sparrows  
-*2015* **Co-leader and Founder** *R Club University of Delaware* – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.  
-*2015* **Department Seminar Coordinator** *University of Delaware* – Contact potential speakers, coordinate weekly seminar series, and organize food/coffee schedule.  
-
 ## Peer-Reviewed Publications
 *2018*
 
@@ -138,12 +123,13 @@ Dr. Michael Ryan
 
 **Raine, A.F., McFarland, B, Banfield, Boone, M., N. Andre** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76.  
 
-## Technical Publications
-
+## Technical Publications  
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
 
 ## Software
-**Fournier AMV, Boone ME, Stevens FR, Bruna E.** refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet  
+**Boone, M.E, Smolinsky, J.A, Buler, J.J.** radar: Tools for analyzing WSR-88D radar data for stop-over biology. R package version 0.5. github.com/birderboone/Radar (This package is a private version not optimized for public use, please contact me for more details)  
+
+**Fournier A.M.V, Boone M.E, Stevens F.R, Bruna E.** refnet: Clarivate Web of Knowledge / Web of Science and ISI Reference Data Tools. R package version 0.6. github.com/embruna/refnet  
 
 ## Posters
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
@@ -157,6 +143,19 @@ Dr. Michael Ryan
 
 > •	AOU/COS Joint Meeting - Norman, OK, US (2015)  
 >> o	AOU Travel Award $400  
+## Professional Development
+*2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tucson, AZ)  
+*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
+*2015* **Instructor** 'Taking R to the Next Level' **Workshop AOU/COS meeting** (Norman, OK)  
+*2015* **Guest Lecturer** ‘Programming and Data Processing in R’ **Introduction to R** (University of Delaware)    
+*2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management** (University of Delaware)    
+
+## Volunteer/Service
+*2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe counties in TX  
+*2016* **Outreach Coordinator KESRP** - Create media, plan upcoming events, interact with public and responding to requests for information  
+*2015/2014 (January)* **Volunteer** *University of Central Oklahoma* – Drag lining, hand-netting captures, and mist-netting for Black Rails/Yellow Rails/Ammodramus Sparrows  
+*2015* **Co-leader and Founder** *R Club University of Delaware* – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.  
+*2015* **Department Seminar Coordinator** *University of Delaware* – Contact potential speakers, coordinate weekly seminar series, and organize food/coffee schedule.  
 
 ## Professional Licenses and Certifications
 **Wilderness First Aid/CPR** *NOLS* (5/2016)  
