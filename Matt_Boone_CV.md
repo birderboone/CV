@@ -28,7 +28,7 @@ Dr. Michael Ryan
 
 ## Data Experience
 
-**Data Manager and Analyst** *August 2018 - Present*
+**Data Manager and Analyst** *August 2018 - Present*  
 **MabLab (Dr. Mathieu Basille), University of Florida - Ft. Lauderdale REC**, FL  
 > • Analyze and manage data from satellite tagged species including wading birds, raccoons, and sea turtles. Data stored in PostGRES DB and analyzed in R and GRASS.  
 > • Co-create an R package to analyze nesting site selection and fate outcome from satellite tagged birds. Includes creation of a SHINY app to act as a GUI for the engine.  
@@ -47,8 +47,8 @@ Dr. Michael Ryan
 ## Field Experience
 **Woodpecker Crew Leader** *April 30 – Aug 03, 2018*  
 **U.S.D.A Forest Service**, OR  
->•	Manage logistics and safety of three technicians in logged forest stands of the Winema-Fremont National Forest
-•	Perform transect surveys for presence of Woodpeckers across Southern Oregon in thinned forests.
+>•	Manage logistics and safety of three technicians in logged forest stands of the Winema-Fremont National Forest  
+•	Perform transect surveys for presence of Woodpeckers across Southern Oregon in thinned forests.  
 •	Monitor nesting success and outcomes to calculate fecundity of Woodpecker population.    
 
 **Black Rail Technician** *Jan 14 – Mar 31, 2018*  
