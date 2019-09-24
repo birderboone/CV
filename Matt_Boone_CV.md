@@ -66,11 +66,11 @@ Dr. Jeffrey J. Buler
 • Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.   
 
 ## Computer Skills  
-**R/RStudio** *Expert* - Programming, data analysis, geospatial analysis, and package creation.  
+**R/RStudio** *Expert* - Programming, data analysis, spatial analysis, and package creation.  
 
-**ArcGIS/QGIS** *Expert* - Spatial analysis and mapmaking  
+**ArcGIS/QGIS** *Expert* - Spatial analysis and map making  
 
-**SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaing databases, building complex queries, creating workable forms for users, maintaing data integrity via standardized QA/QC.
+**SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaining databases, building complex queries, creating workable forms for users, maintaining data integrity via standardized QA/QC.
 
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
 
