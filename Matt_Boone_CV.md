@@ -166,8 +166,8 @@ Dr. Jeffrey J. Buler
 -----------------
 
 ## Teaching
-*2019* **Instructor** 'Data Management with SQL for Ecologists' **Tropical Research & Education Center - UF** (Homested, FL)
-*2019* **Instructor** 'Intro to R for Ecologists' **Florida Atlantic University** (Boca Raton, FL) 
+*2019* **Instructor** 'Data Management with SQL for Ecologists' **Tropical Research & Education Center - UF** (Homested, FL)  
+*2019* **Instructor** 'Intro to R for Ecologists' **Florida Atlantic University** (Boca Raton, FL)  
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
 *2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
 *2015* **Instructor** 'Taking R to the Next Level' **Workshop AOU/COS meeting** (Norman, OK)  
