@@ -52,19 +52,26 @@ Dr. Jeffrey J. Buler
 • Created algorithm to group author name based on similar name participles, address proximity, and assorted information.  
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
 
-**Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping * **R** (created 2016)  
+**Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
 [github.com/birderboone/radar](github.com/birderboone/radar)  
--- Now deprecated. Contact Dr. Jeff Buler [jbuler@udel.edu](mailto:jbuler@udel.edu) for an updated version--   
+-- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version--   
 > • Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.  
 • Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.   
 
 ## Computer Skills  
 **R/RStudio** *Expert* - Programming, data analysis, geospatial analysis, and package creation.  
+
 **ArcGIS/QGIS** *Expert* - Spatial analysis and mapmaking  
-**SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaing databases, building complex queries, creating workable forms for users, maintaing data integrity via standardized QA/QC.    
+
+**SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaing databases, building complex queries, creating workable forms for users, maintaing data integrity via standardized QA/QC.
+
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
+
 **UNIX** *Intermediate* - Writing bin/bash script and scripting commands  
+
 **Markdown/Latek** *Intermediate* - Typesetting and creating reports  
+
+----------------- 
 
 ## Academic Work  
 
@@ -106,7 +113,7 @@ The Wildlife Society National Conference - Pittsburgh, PA, US (2014)
 
 ## Presentations
 
-**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*
+**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
 University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*   
@@ -216,24 +223,17 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 
 ## Field Skills
 
-**Banding (Birds)** 
-> • Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
+**Banding (Birds)** - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
 
-**Tagging (Mammals)**  
-> • Ear tagged approximately 50 small mammals from the Cascades Mountains.  
+**Tagging (Mammals)** - Ear tagged approximately 50 small mammals from the Cascades Mountains.  
 
-**Biological Surveys**  
-> • Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.  
+**Biological Surveys**- Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.  
 
-**Navigation**  
-> • Can navigate to field points using a GPS or map and compass.  
+**Navigation**- Can navigate to field points using a GPS or map and compass.  
 
-**Driving Off-road Vehicles**  
-> • Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.  
+**Driving Off-road Vehicles** - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.  
 
-**Boating**  
-> • Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.  
+**Boating** - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.  
 
-**General Animal Identification**  
-> • Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.  
+**General Animal Identification** - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.  
 
