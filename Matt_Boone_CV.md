@@ -9,7 +9,7 @@ Matthew E. Boone
 ============================================  
 [mttboone@gmail.com](mailto:mttboone@gmail.com)   
 [@birderboone](https://twitter.com/birderboone)  
-[github.com/birderboone](http:://github.com/birderboone)
+[github.com/birderboone](https://github.com/birderboone)  
 512.426.7966 
 
 ## Education  
@@ -74,7 +74,7 @@ Dr. Jeffrey J. Buler
 
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
 
-**UNIX** *Intermediate* - Writing bin/bash script and scripting commands  
+**Linux/UNIX language** *Intermediate* - Adminstrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
 
 **Markdown/Latek** *Intermediate* - Typesetting and creating reports  
 
