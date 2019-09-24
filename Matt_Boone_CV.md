@@ -20,8 +20,9 @@ Dr. Jeffrey J. Buler
 **University of Texas**, Austin, TX  
 
 ## Academic Work  
-**Graduate Research Student** *November 2013 - May 2016*
-Univeristy of Delaware, DE  
+
+**Graduate Researcher** *November 2013 - May 2016*
+**Univeristy of Delaware**, DE  
 >  • Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
 •	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.   
 •	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.   
@@ -109,11 +110,9 @@ Univeristy of Delaware, DE
 
 -----------------
 
-## In Review Publications
-
-**Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). 10.1101/562025v2  
-
 ## Peer-Reviewed Publications  
+
+(In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). 10.1101/562025v2  
 
 **Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2019). arXiv:1901.05935   
 
