@@ -110,7 +110,7 @@ Dr. Jeffrey J. Buler
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
 
 ## Posters
-**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*
+**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
 Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
 Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
 
