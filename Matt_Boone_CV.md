@@ -39,18 +39,18 @@ Dr. Jeffrey J. Buler
 •	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R. 
 
 ## Software Packages
-**R**  
+ 
 ### sftraj
-**Boone, M., Joo, R., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* (created 2019)  
+**Boone, M., Joo, R., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 -- Currently in development --
 
-### NestR  
-**Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2019)  
+### nestR  
+**Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](github.com/picardis/nestR)  
 > • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
 • Helped write Shiny interface to visualuze recursive site visits.  
 
-### Refsplitr  
+### refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *Refsplitr - an R package for processing Web of Science Records and mapping georeferenced coauthorship networks* **R** (created 2018)  
 [github.com/embruna/refsplitr](github.com/embruna/refsplitr)  
 -- Currently in Peer-Review at rOpenSci --  
