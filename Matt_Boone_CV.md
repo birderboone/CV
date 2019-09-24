@@ -37,12 +37,12 @@ Dr. Jeffrey J. Buler
 •	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
 •	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R. 
 
-### Software Packages
+## Software Packages
 **R**  
 
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2019)  
 [github.com/picardis/nestR](github.com/picardis/nestR)  
-> • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.
+> • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
 • Helped write Shiny interface to visualuze recursive site visits.  
 
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *Refsplitr - an R package for processing Web of Science Records and mapping georeferenced coauthorship networks* **R** (created 2018)  
@@ -55,14 +55,14 @@ Dr. Jeffrey J. Buler
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping * **R** (created 2016)  
 [github.com/birderboone/radar](github.com/birderboone/radar)  
 -- Now deprecated. Contact Dr. Jeff Buler [jbuler@udel.edu](mailto:jbuler@udel.edu) for an updated version--   
-> • Translated SAS code to R then built code into a package frame work with a workable interface.  
+> • Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.  
 • Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.   
 
 ## Computer Skills  
 **R/RStudio** *Expert* - Programming, data analysis, geospatial analysis, and package creation.  
 **ArcGIS/QGIS** *Expert* - Spatial analysis and mapmaking  
+**SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaing databases, building complex queries, creating workable forms for users, maintaing data integrity via standardized QA/QC.    
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
-**POSTGRES/MYSQL/Access** *Expert* - Creating a database, building queries, QA/QC, and creating forms.  
 **UNIX** *Intermediate* - Writing bin/bash script and scripting commands  
 **Markdown/Latek** *Intermediate* - Typesetting and creating reports  
 
@@ -75,7 +75,7 @@ Dr. Jeffrey J. Buler
 •	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.   
 •	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.  
 
-### Peer-Reviewed Publications  
+## Peer-Reviewed Publications  
 
 (In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). 10.1101/562025v2  
 
@@ -87,39 +87,37 @@ Dr. Jeffrey J. Buler
 
 **Raine, A.F., McFarland, B., Banfield, N., Boone, M.** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76. 10.2984/71.1.6  
 
-### Book Chapters  
+## Book Chapters  
 
 **Buler, J., Barrow, C., Boone, M., Dawson, D., Diehl, R., Moore, F., Randall, L., Schreckengost, T., Smolinsky, J.** (2018). *Linking Animals Aloft with the Terrestrial Landscape.* **In Aeroecology** (P. Chilson, F. Winifred, J. Kelly, F. Liechti, Editors). Springer Press. 10.1007/978-3-319-68576-2_14  
 
-### Technical Publications
+## Technical Publications
 
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
 
-### Posters
+## Posters
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*
-> • Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019) 
-• Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
+Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
+Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.** *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
-> •	The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
-•	The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
+The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
+The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
 
-### Presentations
+## Presentations
 
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*
-> • University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
+University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*   
-> •	AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)  
->> o	AFO Travel Award $850  
+AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)  
+> •	AFO Travel Award $850 
 
-> •	AOU/COS Joint Meeting - Norman, OK, US (2015)  
->> o	AOU Travel Award $400  
-
------------------
+AOU/COS Joint Meeting - Norman, OK, US (2015)  
+> •	AOU Travel Award $400  
 
 ### Teaching
-*2019* **Instructor** 'Data Management with SQL for Ecologists' **Tropical Research & Education Center - UF** (Homested, FL)  
+*2019* **Instructor** 'Data Management with SQL for Ecologists' **Tropical REC - UF** (Homested, FL)  
 *2019* **Instructor** 'Intro to R for Ecologists' **Florida Atlantic University** (Boca Raton, FL)  
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
 *2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
@@ -206,7 +204,7 @@ Dr. Jeffrey J. Buler
 **Texas A&M University**, TX  
 > •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
 
-### Professional Licenses and Certifications
+## Professional Licenses and Certifications
 **Rabies Vaccine** (8/2018)
 **Wilderness First Aid/CPR** *NOLS* (5/2017)  
 **B3 Helicopter/Airplane Safety** *Interagency Aviation Training* (5/2016)  
@@ -216,7 +214,7 @@ Dr. Jeffrey J. Buler
 **24hr HAZWOPER** *Occupational Safety and Health Administration* (1/2011)  
 **Louisiana Boaters License** *Louisiana DOTD* (1/2011)  
 
-### Field Skills
+## Field Skills
 
 **Banding (Birds)** 
 > • Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
