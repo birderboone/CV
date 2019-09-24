@@ -21,7 +21,7 @@ Dr. Jeffrey J. Buler
 
 ## Academic Work  
 
-**Graduate Researcher** *November 2013 - May 2016*
+**Graduate Researcher** *November 2013 - May 2016*  
 **Univeristy of Delaware**, DE  
 >  • Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
 •	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.   
