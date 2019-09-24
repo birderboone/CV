@@ -158,7 +158,7 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 ----------------- 
 
 ## Field Experience
-**Avian Crew Leader** *May 1, 2018 – August 9, 2018*  
+**Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 **Rocky Mountain Research Station - USFS**, ID  
 > •	Supervised three technicians, created schedules, and managed logistics for project site.  
 •	Conducted breeding transect surveys, searched for nests, and monitored nest success for White-headed Woodpecker population in the Winema-Fremont National Forest.
