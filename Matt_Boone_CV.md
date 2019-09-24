@@ -131,11 +131,11 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 > •	AOU Travel Award $400  
 
 ### Teaching
-*2019* **Instructor** 'Data Management with SQL for Ecologists' **Tropical REC - UF** (Homested, FL)  
-*2019* **Instructor** 'Intro to R for Ecologists' **Florida Atlantic University** (Boca Raton, FL)  
+*2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
+*2019* **Instructor** 'Intro to R for Ecologists' **Workshop at Florida Atlantic University** (Boca Raton, FL)  
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
-*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop AOSSCO meeting** (East Lansing, MI)    
-*2015* **Instructor** 'Taking R to the Next Level' **Workshop AOU/COS meeting** (Norman, OK)  
+*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop a tAOSSCO meeting** (East Lansing, MI)    
+*2015* **Instructor** 'Taking R to the Next Level' **Workshop at AOU/COS meeting** (Norman, OK)  
 *2015* **Guest Lecturer** ‘Programming and Data Processing in R’ (University of Delaware)    
 *2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management class** (University of Delaware)    
 
