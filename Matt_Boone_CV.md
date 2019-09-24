@@ -1,5 +1,6 @@
 ---
 layout: pdf
+output: pdf_document
 urlcolor: blue
 ---
 
@@ -39,12 +40,13 @@ Dr. Jeffrey J. Buler
 
 ## Software Packages
 **R**  
-
+###NestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2019)  
 [github.com/picardis/nestR](github.com/picardis/nestR)  
 > • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
 • Helped write Shiny interface to visualuze recursive site visits.  
 
+###Refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *Refsplitr - an R package for processing Web of Science Records and mapping georeferenced coauthorship networks* **R** (created 2018)  
 [github.com/embruna/refsplitr](github.com/embruna/refsplitr)  
 -- Currently in Peer-Review at rOpenSci.--  
@@ -52,6 +54,7 @@ Dr. Jeffrey J. Buler
 • Created algorithm to group author name based on similar name participles, address proximity, and assorted information.  
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
 
+###radaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
 [github.com/birderboone/radar](github.com/birderboone/radar)  
 -- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version--   
@@ -195,7 +198,7 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 **Curry and Kerlinger, LLC**, NY  
 > •	Performed daily bird and bat mortality searches at 48 wind turbines in Western New York.  
 
-**Golden-winged Warbler Field Technician** *April 21- July 7, 2011*
+**Golden-winged Warbler Field Technician** *April 21- July 7, 2011*  
 **University of Tennessee**, TN  
 > •	Conduct Nest searched, band resighted, and performed presence absence play back surveys for the declining Golden-Winged Warbler in the Cumberland Mountains.  
 
@@ -203,7 +206,7 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 **Louisiana State University**, LA  
 > •	Conducted mortality searches for waterfowl along ocean transects in the Mississippi River Delta and Gulf of Mexico after the Deep Water Horizon oil spill. Lived on a remote island camp with one other technician. Drove mud-motor and small skiffs in marsh and open water habitat.  
 
-**Field Technician** *July 7 - September 14, 2010*  
+**Freshwater Mussel Field Technician** *July 7 - September 14, 2010*  
 **Texas Agrilife Extensions Service**, TX  
 > •	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas.  
 
@@ -212,7 +215,7 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 > •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
 
 ## Professional Licenses and Certifications
-**Rabies Vaccine** (8/2018)
+**Rabies Vaccine** (8/2018)  
 **Wilderness First Aid/CPR** *NOLS* (5/2017)  
 **B3 Helicopter/Airplane Safety** *Interagency Aviation Training* (5/2016)  
 **NSC Defensive Driving II** *National Safety Council* (8/2013)  
