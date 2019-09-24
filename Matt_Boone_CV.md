@@ -40,24 +40,28 @@ Dr. Jeffrey J. Buler
 
 ## Software Packages
 **R**  
-###NestR  
+### sftraj
+**Boone, M., Joo, R., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* (created 2019)  
+-- Currently in development --
+
+### NestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2019)  
 [github.com/picardis/nestR](github.com/picardis/nestR)  
 > • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
 • Helped write Shiny interface to visualuze recursive site visits.  
 
-###Refsplitr  
+### Refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *Refsplitr - an R package for processing Web of Science Records and mapping georeferenced coauthorship networks* **R** (created 2018)  
 [github.com/embruna/refsplitr](github.com/embruna/refsplitr)  
--- Currently in Peer-Review at rOpenSci.--  
+-- Currently in Peer-Review at rOpenSci --  
 > • Wrote code to split reference files into perspective parts as well as partition out author and address information.  
 • Created algorithm to group author name based on similar name participles, address proximity, and assorted information.  
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
 
-###radaR  
+### radaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
 [github.com/birderboone/radar](github.com/birderboone/radar)  
--- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version--   
+-- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version --   
 > • Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.  
 • Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.   
 
