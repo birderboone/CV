@@ -7,42 +7,6 @@ urlcolor: blue
 
 Matthew E. Boone  
 ============================================  
-<style>
-.column-left{
-  float: left;
-  width: 33%;
-  text-align: left;
-}
-.column-center{
-  display: inline-block;
-  width: 33%;
-  text-align: center;
-}
-.column-right{
-  float: right;
-  width: 33%;
-  text-align: right;
-}
-</style>
-
-#### This section will have three columns
-
-<div class="column-left">
-**1** one  
-**2** two  
-</div>
-<div class="column-center">
-**3** three  
-**4** four  
-**5** five  
-**6** six  
-</div>
-<div class="column-right">
-**7** seven  
-**8** eight  
-**9** nine  
-</div>
-
 [mttboone@gmail.com](mailto:mttboone@gmail.com)   
 [@birderboone](https://twitter.com/birderboone)  
 [github.com/birderboone](https://github.com/birderboone)  
