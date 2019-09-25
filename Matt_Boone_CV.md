@@ -24,10 +24,10 @@ Dr. Jeffrey J. Buler
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL
-> • Analyze and manage data from satellite tagged species including wading birds, raccoons, and sea turtles. Data stored in PostGRES DB and analyzed in R and QGIS.  
-• Co-create an R package to analyze nesting site selection and fate outcome from satellite tagged birds. Includes creation of a SHINY app to act as a GUI for the engine.  
-• Collaborating closely on projects with Ph.D student, PostDoc, and field technician in lab. Includes writing, editing, and data preparation for manuscript submissions on all projects.   
-• Manage PostGRES databases and IT workload for multiple lab computers running completely in a Linux environment.  
+> • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions  
+• Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects  
+• Creation, consulting, and managing of multiple software packages in R (detailed below)  
+• Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
 
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
@@ -41,9 +41,9 @@ Dr. Jeffrey J. Buler
 ## Software Packages
  
 ### sftraj
-**Boone, M., Joo, R., Calenge, C., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
+**Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 -- Currently in development --
-> •Funded by a grant from the RConsortium
+> • Funded by a grant from the RConsortium
 
 ### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
