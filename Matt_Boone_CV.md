@@ -41,8 +41,9 @@ Dr. Jeffrey J. Buler
 ## Software Packages
  
 ### sftraj
-**Boone, M., Joo, R., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
+**Boone, M., Joo, R., Calenge, C., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 -- Currently in development --
+> •Funded by a grant from the RConsortium
 
 ### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
