@@ -43,7 +43,7 @@ Dr. Jeffrey J. Buler
 ### sftraj
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 -- Currently in development --
-> • Lead coder on project
+> • Lead coder on project  
 • Funded by a grant from the RConsortium   
 
 ### nestR  
