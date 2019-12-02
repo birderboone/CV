@@ -94,6 +94,8 @@ Dr. Jeffrey J. Buler
 
 ## Peer-Reviewed Publications  
 
+(In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). 
+
 (In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). 10.1101/562025v2  
 
 **Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2019). arXiv:1901.05935   
