@@ -1,6 +1,9 @@
 ---
 layout: pdf
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 urlcolor: blue
 ---
 
@@ -8,9 +11,11 @@ urlcolor: blue
 Matthew E. Boone  
 ============================================  
 [mttboone@gmail.com](mailto:mttboone@gmail.com)   
-[@birderboone](https://twitter.com/birderboone)  
+[\@birderboone](https://twitter.com/birderboone)  
 [github.com/birderboone](https://github.com/birderboone)  
 512.426.7966 
+
+----------------- 
 
 ## Education  
 **M.S in Wildlife Ecology**, *May 2016* (GPA - 3.90)  
@@ -23,19 +28,23 @@ Dr. Jeffrey J. Buler
 ## Data Experience  
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
-**University of Florida Research and Education Center - Ft. Lauderdale**, FL
-> • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions  
-• Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects  
-• Creation, consulting, and managing of multiple software packages in R (detailed below)  
+**University of Florida Research and Education Center - Ft. Lauderdale**, FL  
+> • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.  
+• Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.  
+• Creation, consulting, and managing of multiple software packages in R (detailed below).  
 • Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
+• Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.  
+These reports are published online:  
+[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
+[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
 
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
-> •	Analyzed field data and created maps using R and ArcGis. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL. Maintained integrity and QA/QC of databases.  
+> •	Analyzed field data and created maps using R and ArcGis. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL.  
 •	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
 •	Managed nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
-•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R. Collected covariate data on topographic variables from publicly available sources (Elevation, Slope, Aspect, Soil type, NDVI, etc). Wrote methods, analysis, and results page for manuscript.  
-•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
+•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R.  
+•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.  
 •	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R. 
 
 ## Software Packages
@@ -43,7 +52,7 @@ Dr. Jeffrey J. Buler
 ### sftraj
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 [github.com/mablab/sftraj](https://github.com/mablab/sftraj)  
--- Currently in development --
+-- Currently in development --  
 > • Lead coder on project  
 • Funded by a grant from the RConsortium   
 
@@ -94,27 +103,32 @@ Dr. Jeffrey J. Buler
 
 ## Peer-Reviewed Publications  
 
-(In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). 
+(In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). [863688v1.abstract](https://www.biorxiv.org/content/10.1101/863688v1.abstract)  
 
-(In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). 10.1101/562025v2  
+(In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). [10.1101/562025v2](https://www.biorxiv.org/content/10.1101/562025v2)    
 
-**Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2019). arXiv:1901.05935   
+**Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2019). [arXiv:1901.05935](https://arxiv.org/abs/1901.05935)    
 
-**McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.**  *Artificial light confounds broad-scale habitat selection by migrating birds.* **Ecology Letters** 21 (2018): 356-364. 10.1111/ele.12902
+**McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.**  *Artificial light confounds broad-scale habitat selection by migrating birds.* **Ecology Letters** 21 (2018): 356-364. [10.1111/ele.12902](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12902)  
 
-**Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** 45 (2017): 73-82  
+**Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** 45 (2017): 73-82 [Online PDF](http://www.marineornithology.org/PDF/45_1/45_1_73-82.pdf)  
 
-**Raine, A.F., McFarland, B., Banfield, N., Boone, M.** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76. 10.2984/71.1.6  
+**Raine, A.F., McFarland, B., Banfield, N., Boone, M.** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76. [10.2984/71.1.6](https://bioone.org/journals/pacific-science/volume-71/issue-1/71.1.6/An-Updated-Avifauna-of-Mokuaeae-Rock-Islet-Kauai1/10.2984/71.1.6.full)  
 
 ## Book Chapters  
 
-**Buler, J., Barrow, C., Boone, M., Dawson, D., Diehl, R., Moore, F., Randall, L., Schreckengost, T., Smolinsky, J.** (2018). *Linking Animals Aloft with the Terrestrial Landscape.* **In Aeroecology** (P. Chilson, F. Winifred, J. Kelly, F. Liechti, Editors). Springer Press. 10.1007/978-3-319-68576-2_14  
+**Buler, J., Barrow, C., Boone, M., Dawson, D., Diehl, R., Moore, F., Randall, L., Schreckengost, T., Smolinsky, J.** (2018). *Linking Animals Aloft with the Terrestrial Landscape.* **In Aeroecology** (P. Chilson, F. Winifred, J. Kelly, F. Liechti, Editors). Springer Press. [10.1007/978-3-319-68576-2_14](https://pubs.er.usgs.gov/publication/70196349)    
 
-## Technical Publications
+## Technical and Outreach Publications
 
-**Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling.* Final Report. USGS  
+**Boone, M.E** (2019) *Being a better programmer and scientist with rOpenSci*. Online Article. University of Florida. [https://mablab.org/post/ropensci/](https://mablab.org/post/ropensci/)  
 
-## Posters
+**Boone, M.E,. Basille, M.** (2019) *Using iNaturalist to Contribute your Nature Observations to Science*. EDIS Publication. University of Florida. [EDIS Document link](https://edis.ifas.ufl.edu/uw458)  
+
+**Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling*. Final Report. USGS  
+
+## Posters  
+
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
 Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
 Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
@@ -163,6 +177,10 @@ AOU/COS Joint Meeting - Norman, OK, US (2015)
 ----------------- 
 
 ## Field Experience
+
+**University of Florida (current employer)**, FL  
+> • Trapped over 70 raccoons in a large urban park, adminster anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.  
+
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 **Rocky Mountain Research Station - USFS**, ID  
 > •	Supervised three technicians, created schedules, and managed logistics for project site.  
