@@ -100,6 +100,7 @@ These reports are published online:
 •	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.   
 •	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.   
 •	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.  
+• You can view the [thesis online](http://udspace.udel.edu/handle/19716/19774)  
 
 ## Peer-Reviewed Publications  
 
@@ -121,33 +122,34 @@ These reports are published online:
 
 ## Technical and Outreach Publications
 
-**Boone, M.E** (2019) *Being a better programmer and scientist with rOpenSci*. Online Article. University of Florida. [https://mablab.org/post/ropensci/](https://mablab.org/post/ropensci/)  
+**Boone, M.E** (2019) *Being a better programmer and scientist with rOpenSci*. **Online Article**. University of Florida. [https://mablab.org/post/ropensci/](https://mablab.org/post/ropensci/)  
 
-**Boone, M.E,. Basille, M.** (2019) *Using iNaturalist to Contribute your Nature Observations to Science*. EDIS Publication. University of Florida. [EDIS Document link](https://edis.ifas.ufl.edu/uw458)  
+**Boone, M.E,. Basille, M.** (2019) *Using iNaturalist to Contribute your Nature Observations to Science*. **EDIS Publication**. University of Florida. [EDIS Document link](https://edis.ifas.ufl.edu/uw458)  
 
-**Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling*. Final Report. USGS  
+**Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling*. **Final Report**. USGS  
 
 ## Posters  
 
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
-Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
-Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
+
+- Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
+- Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.** *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
-The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
-The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
+
+- The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
+- The Wildlife Society National Conference - Pittsburgh, PA, US (2014)  
 
 ## Presentations
 
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
-University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
 
-**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*   
-AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015)  
-> •	AFO Travel Award $850 
+- University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
 
-AOU/COS Joint Meeting - Norman, OK, US (2015)  
-> •	AOU Travel Award $400  
+**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*  
+
+- AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**  
+- AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**  
 
 ### Teaching
 *2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
