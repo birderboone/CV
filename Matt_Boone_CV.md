@@ -27,7 +27,7 @@ Dr. Jeffrey J. Buler
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL  
-//t • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.  
+> • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.  
 • Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.  
 • Creation, consulting, and managing of multiple software packages in R (detailed below).  
 • Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
