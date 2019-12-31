@@ -1,8 +1,5 @@
 ---
 layout: pdf
-output:
-  html_document:
-    df_print: paged
 urlcolor: blue
 ---
 
