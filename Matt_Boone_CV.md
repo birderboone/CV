@@ -21,6 +21,8 @@ Dr. Jeffrey J. Buler
 **B.S in Biology - Ecology, Evolution, and Behavior** *May 2009* (GPA - 3.48)  
 **University of Texas**, Austin, TX  
 
+----------------- 
+
 ## Data Experience  
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
