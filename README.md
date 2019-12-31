@@ -1,6 +1,7 @@
 C.V
 ===
 
-Bringing my CV over from latex since it was so difficult to maintain. Trying to maintain one document for both html view and generating pdfs. If you see a typo please let me know
+This is a digital repository for my CV. There are two version. The first is a .md version that renders very well in the github native style. The other is the 'knittable' version that I use to make the pdf. The process I do is: Knit to Word document, then export as pdf. This renders the colors and spacing the way I like it.
 
-aurielfournier@gmail.com
+mttboone@gmail.com  
+- Matt Boone
