@@ -1,0 +1,38 @@
+---
+layout: pdf
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+urlcolor: blue
+---
+
+
+Matthew E. Boone  
+============================================  
+[mttboone@gmail.com](mailto:mttboone@gmail.com)   
+[\@birderboone](https://twitter.com/birderboone)  
+[github.com/birderboone](https://github.com/birderboone)  
+512.426.7966 
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+
+```
+
+# References  
+**Dr. Mathieu Basille**, Assistant Professor, *University of Florida Research and Education Center - Ft. Lauderdale, FL*
+
+>- basille@ufl.edu, (786.516.4973)
+
+**John Dudley**, Ecologist, *US Forest Service (Rocky Mountain Research Station) - Boise, ID*
+
+>- jdudley@fs.fed.us, (928.853.7242)
+
+**Dr. Jake Verschuyl**, Director of Forestry Research, *National Council for Air and Stream Improvement - Anacortes, WA*
+
+>- jverschuyl@ncasi.org, (360.391.4988)
+
+**Dr. Jeff Buler**, Associate Professor of Wildlife Ecology, *University of Delaware - Newark, DE*
+
+>- jbuler@udel.edu, (302.831.1306)

@@ -13,7 +13,7 @@ Matthew E. Boone
 
 ----------------- 
 
-## Education  
+# Education  
 **M.S in Wildlife Ecology**, *May 2016* (GPA - 3.90)  
 **University of Delaware** *Department of Entomology and Wildlife Ecology*  
 Dr. Jeffrey J. Buler   
@@ -23,7 +23,7 @@ Dr. Jeffrey J. Buler
 
 ----------------- 
 
-## Data Experience  
+# Data Experience  
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL  
@@ -90,7 +90,7 @@ These reports are published online:
 
 ----------------- 
 
-## Academic Work  
+# Academic Work  
 
 **Graduate Researcher** *November 2013 - May 2016*  
 **Univeristy of Delaware**, DE  
@@ -149,7 +149,7 @@ These reports are published online:
 - AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**  
 - AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**  
 
-### Teaching
+## Teaching
 *2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
 *2019* **Instructor** 'Intro to R for Ecologists' **Workshop at Florida Atlantic University** (Boca Raton, FL)  
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
@@ -158,17 +158,17 @@ These reports are published online:
 *2015* **Guest Lecturer** ‘Programming and Data Processing in R’ (University of Delaware)    
 *2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management class** (University of Delaware)    
 
-### Volunteer/Service
+## Volunteer/Service
 *2014 - Present* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe TX counties  
 *2015* **Co-leader and Founder** *R Club University of Delaware* – Setting up agenda for weekly meetings, solving graduate student problems in R, creating/teaching lessons.  
 *2015* **Department Seminar Coordinator** *University of Delaware* – Contact potential speakers, coordinate weekly seminar series, and organize refreshments.  
 
-### Awards/Honors
+## Awards/Honors
 *2009* **University Honors** University of Texas  
 *2008* **University Honors** University of Texas  
 *2007* **Deans List** University of Texas  
 
-### Memberships (since)
+## Memberships (since)
 *2013* **The Wildlife Society**  
 *2015* **Association of Field Ornithologists**  
 *2015* **Wilson Ornithological Society**   
@@ -176,7 +176,7 @@ These reports are published online:
 
 ----------------- 
 
-## Field Experience
+# Field Experience
 
 **University of Florida (current employer)**, FL  
 > • Trapped over 70 raccoons in a large urban park, adminster anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.  
