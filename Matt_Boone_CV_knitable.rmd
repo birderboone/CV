@@ -77,9 +77,9 @@ These reports are published online:
 - Helped write Shiny interface to visualuze recursive site visits.
 
 ### refsplitr  
-**Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *Refsplitr - an R package for processing Web of Science Records and mapping georeferenced coauthorship networks* **R** (created 2018)  
-[github.com/embruna/refsplitr](https://github.com/embruna/refsplitr)  
--- Currently in Peer-Review at rOpenSci --  
+**Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.* **R** (created 2018)  
+[github.com/embruna/refsplitr](https://github.com/ropensci/refsplitr)  
+-- Accepted on rOpenSci --   
 
 > - Wrote code to split reference files into perspective parts as well as partition out author and address information.
 - Created algorithm to group author name based on similar name participles, address proximity, and assorted information
@@ -124,6 +124,8 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 - You can view the [thesis online](http://udspace.udel.edu/handle/19716/19774)
 
 ## Peer-Reviewed Publications  
+
+(In review) **W. E. Pine, III; P.C. Frederick1, J. F. Moore, S. Beck1, M. Moreno1, M. J. Dodrill, M.E. Boone,  L. Sturmer, S. Yurek** *Trends in oyster populations in the northeastern Gulf of Mexico: An assessment of river discharge and fishing effects over time and space* (2020)  
 
 (In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). [863688v1.abstract](https://www.biorxiv.org/content/10.1101/863688v1.abstract)  
 
