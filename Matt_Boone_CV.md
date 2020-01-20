@@ -102,7 +102,7 @@ These reports are published online:
 
 ## Peer-Reviewed Publications  
 
-(In review) **W. E. Pine, III; P.C. Frederick1, J. F. Moore, S. Beck1, M. Moreno1, M. J. Dodrill, M.E. Boone,  L. Sturmer, S. Yurek** *Trends in oyster populations in the northeastern Gulf of Mexico: An assessment of river discharge and fishing effects over time and space* (2020) 
+(In review) **W. E. Pine, III; P.C. Frederick, J. F. Moore, S. Beck, M. Moreno1, M. J. Dodrill, M.E. Boone,  L. Sturmer, S. Yurek** *Trends in oyster populations in the northeastern Gulf of Mexico: An assessment of river discharge and fishing effects over time and space* (2020) 
 
 (In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). [863688v1.abstract](https://www.biorxiv.org/content/10.1101/863688v1.abstract)  
 
