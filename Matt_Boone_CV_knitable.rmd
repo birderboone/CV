@@ -1,10 +1,10 @@
 ---
 layout: pdf
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 urlcolor: blue
 ---
 
@@ -124,8 +124,6 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 - You can view the [thesis online](http://udspace.udel.edu/handle/19716/19774)
 
 ## Peer-Reviewed Publications  
-
-(In review) **W. E. Pine, III; P.C. Frederick, J. F. Moore, S. Beck, M. Moreno, M. J. Dodrill, M.E. Boone,  L. Sturmer, S. Yurek** *Trends in oyster populations in the northeastern Gulf of Mexico: An assessment of river discharge and fishing effects over time and space* (2020)  
 
 (In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). [863688v1.abstract](https://www.biorxiv.org/content/10.1101/863688v1.abstract)  
 
