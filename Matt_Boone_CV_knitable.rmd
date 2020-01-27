@@ -1,10 +1,10 @@
 ---
 layout: pdf
 output:
-  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
+  pdf_document: default
 urlcolor: blue
 ---
 
@@ -60,14 +60,21 @@ These reports are published online:
 -	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.
 
 ## Software Packages
- 
-### sftraj
+
+### Sftraj
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 [github.com/mablab/sftraj](https://github.com/mablab/sftraj)  
 -- Currently in development --  
 
-> - Lead coder on project
-- Funded by a grant from the RConsortium
+> - Lead coder on project  
+- Funded by a grant from the RConsortium   
+
+### Tracking CRAN Task View
+**Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 2019)  
+[Tracking - Cran Task View](https://cran.r-project.org/web/views/Tracking.html)  
+
+> - Maintainer of Task View - evaluating new tracking packages merit for adding to list  
+- Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
 
 ### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  

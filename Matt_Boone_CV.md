@@ -45,22 +45,29 @@ These reports are published online:
 •	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.  
 •	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R. 
 
-## Software Packages
- 
-### sftraj
+## Software 
+
+### Sftraj
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
 [github.com/mablab/sftraj](https://github.com/mablab/sftraj)  
 -- Currently in development --  
 > • Lead coder on project  
 • Funded by a grant from the RConsortium   
 
-### nestR  
+
+### Tracking CRAN Task View
+**Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 12/2019)  
+[Tracking - Cran Task View](https://cran.r-project.org/web/views/Tracking.html)  
+> • Maintainer of Task View - evaluating new tracking packages merit for adding to list  
+• Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
+
+### NestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](https://github.com/picardis/nestR)  
 > • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
 • Helped write Shiny interface to visualuze recursive site visits.  
 
-### refsplitr  
+### Refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.* **R** (created 2018)  
 [github.com/embruna/refsplitr](https://github.com/ropensci/refsplitr)  
 -- Accepted on rOpenSci --  
@@ -68,7 +75,7 @@ These reports are published online:
 • Created algorithm to group author name based on similar name participles, address proximity, and assorted information.  
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
 
-### radaR  
+### RadaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
 [github.com/birderboone/radar](https://github.com/birderboone/radar)  
 -- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version --   
