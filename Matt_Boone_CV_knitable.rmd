@@ -40,14 +40,10 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL  
 
->- Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.
+>- Manage multiple spatial PostgreSQL databases in lab including database creation, SQL query building, and analysis using PostGIS extensions.
 - Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.
 - Creation, consulting, and managing of multiple software packages in R (detailed below).
 - Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.
-- Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
-These reports are published online:  
-[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
-[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
 
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
@@ -59,38 +55,40 @@ These reports are published online:
 -	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
 -	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.
 
-## Software Packages
+## Software  
 
-### Sftraj
-**Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftraj - A movement class for analyzing and visualzing spatial movement data that incorporates the sf package* **R** (created 2019)  
-[github.com/mablab/sftraj](https://github.com/mablab/sftraj)  
--- Currently in development --  
+### sftrack
+**Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftrack - A movement class for analyzing and visualilizing spatial movement data that incorporates the sf package* **R** (2019)  
+[github.com/mablab/sftrack](https://github.com/mablab/sftrack)  
 
-> - Lead coder on project  
-- Funded by a grant from the RConsortium   
+> - Lead coder on project.
+- Sftrack is a new package defining a central class for movement data that fully incorporates the `sf` package, written in S3 as an upgrade to the `ltraj` class in `AdehabitatLT`. Defines a new standard for movement data in R, incorporating x,y,z,t and a dynamic grouping category.  
+- Funded by a grant from the RConsortium (see more information in Grants).  
+- Beta version available on Github, although development is ongoing.
 
-### Tracking CRAN Task View
+### Tracking - CRAN Task View
 **Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 2019)  
-[Tracking - Cran Task View](https://cran.r-project.org/web/views/Tracking.html)  
+[https://cran.r-project.org/web/views/Tracking.html](https://cran.r-project.org/web/views/Tracking.html)  
 
-> - Maintainer of Task View - evaluating new tracking packages merit for adding to list  
+> - Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
 - Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
-
 ### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](https://github.com/picardis/nestR)  
 
 > - Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.
 - Helped write Shiny interface to visualuze recursive site visits.
+- Compendium published in Journal of Movement Ecology (doi: [10.1186/s40462-020-00201-1](https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-020-00201-1))
 
 ### refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.* **R** (created 2018)  
-[github.com/embruna/refsplitr](https://github.com/ropensci/refsplitr)  
+[ropensci/refsplitr](https://github.com/ropensci/refsplitr)  
 -- Accepted on rOpenSci --   
 
 > - Wrote code to split reference files into perspective parts as well as partition out author and address information.
-- Created algorithm to group author name based on similar name participles, address proximity, and assorted information
-- Helped write code to map network analysis and spatial plotting of global author/co-author connections.
+- Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
+- Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
+- Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
 
 ### radaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
@@ -98,6 +96,7 @@ These reports are published online:
 -- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version --   
 
 > - Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.
+- Package takes raw WSR-88D outputs, creates VADS, summarizes radar returns, and calculates bird densities for use in stopover mapping analysis.  
 - Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.
 
 ## Computer Skills  
@@ -107,11 +106,13 @@ These reports are published online:
 
 **SQL - POSTGRES/MYSQL/Access** *Expert* - Creating and maintaining databases, building complex queries, creating workable forms for users, maintaining data integrity via standardized QA/QC.
 
+**Markdown/Latek/rPres/Hugo** *Expert* - Typesetting and creating reports, website creation, and presentation creation in markdown and rmarkdown.  
+
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
 
-**Linux/UNIX language** *Intermediate* - Adminstrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
+**Linux/UNIX language** *Intermediate* - Administrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
 
-**Markdown/Latek** *Intermediate* - Typesetting and creating reports  
+**HTML/CSS** *Intermediate* - Website coding and styling with cascading style sheets.  
 
 </br>
  ```{r, echo=FALSE, fig.align="center", out.width='800px'}
@@ -132,17 +133,21 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 ## Peer-Reviewed Publications  
 
-(In review) **Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records* (2019). [863688v1.abstract](https://www.biorxiv.org/content/10.1101/863688v1.abstract)  
+(In review) **Joo, R., Picardi, S., Boone, M., Clay, T., Patrick, S., Romero-Romero, V., Basille, M.** *A decade of Movement Ecology* [abs/2006.00110v1](https://arxiv.org/abs/2006.00110v1)  
 
-(In review) **Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *A data-driven method to locate nest sites and estimate reproductive outcome from avian telemetry data* (2019). [10.1101/562025v2](https://www.biorxiv.org/content/10.1101/562025v2)    
+**Moore, J., Pine, W, III., Fredrick, P., Beck, S., Moreno, M., Dodrill, M., Boone, M., Sturmer, L., Yurek, S.** *Trends in Oyster Populations in the Northeastern Gulf of Mexico: An Assessment of River Discharge and Fishing Effects over Time and Space* **Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science** (2020) 12:191–204. [10.1002/mcf2.10117](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10117)  
 
-**Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2019). [arXiv:1901.05935](https://arxiv.org/abs/1901.05935)    
+**Hochmair, H., Scheffrahn, R., Basille, M., Boone, M.** *Evaluating the data quality of iNaturalist termite records.* **PLoSONE** (2020) 15.5: e0226534. [10.1371/journal.pone.0226534](https://doi.org/10.1371/journal.pone.0226534)  
 
-**McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.**  *Artificial light confounds broad-scale habitat selection by migrating birds.* **Ecology Letters** 21 (2018): 356-364. [10.1111/ele.12902](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12902)  
+**Picardi, S., Smith, B.J., Boone, M.E., Frederick, P.C., Cecere, J.G., Rubolini, D., Lorenzo, S., Pirrello, S., Borkhataria, R.R., Basille, M.** *Analysis of movement recursions to detect reproductive events and estimate their fate in central place foragers* **Movement Ecology** (2019) 8.24. [10.1186/s40462-020-00201-1](https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-020-00201-1)  
 
-**Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** 45 (2017): 73-82 [Online PDF](http://www.marineornithology.org/PDF/45_1/45_1_73-82.pdf)  
+**Joo, R., Boone, M., Clay, T., Patrick, S., Clusella-Trullas, S., Basille, M.**  *Navigating through the R packages for movement.* **Journal of Animal Ecology** (2020) 89: 248–267. [10.1111/1365-2656.13116](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.13116)  
 
-**Raine, A.F., McFarland, B., Banfield, N., Boone, M.** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** 71.1 (2017): 67-76. [10.2984/71.1.6](https://bioone.org/journals/pacific-science/volume-71/issue-1/71.1.6/An-Updated-Avifauna-of-Mokuaeae-Rock-Islet-Kauai1/10.2984/71.1.6.full)  
+**McLaren, J.D., Buler, J.J., Schreckengost, T.D., Smolinsky, J.A., Boone, M.E., Dawson, D.K., Walters, E.L.**  *Artificial light confounds broad-scale habitat selection by migrating birds.* **Ecology Letters** (2018) 21: 356-364. [10.1111/ele.12902](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12902)  
+
+**Raine, A.F., Boone, M., Mckown, M., Holmes, N.** *The breeding phenology and distribution of the Band-rumped Storm-petrel Oceanodroma castro on Kaua'i and Lehua Islet, Hawaiian Islands.* **Marine Ornithology** (2017) 45: 73-82 [Online PDF](http://www.marineornithology.org/PDF/45_1/45_1_73-82.pdf)  
+
+**Raine, A.F., McFarland, B., Banfield, N., Boone, M.** *An Updated Avifauna of Moku'ae'ae Rock Islet, Kaua'i.* **Pacific Science** (2017) 71.1 : 67-76. [10.2984/71.1.6](https://bioone.org/journals/pacific-science/volume-71/issue-1/71.1.6/An-Updated-Avifauna-of-Mokuaeae-Rock-Islet-Kauai1/10.2984/71.1.6.full)  
 
 ## Book Chapters  
 
@@ -156,6 +161,36 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 **Buler, J.J., Boone, M.E., McLaren, J.E., Dawson, D.K.** (2016) *Hurricane Sandy's impact on migrating landbirds: insight via radar, field observations and modeling*. **Final Report**. USGS  
 
+## Grants
+
+**Co-PI** *2020* ($5000) - R Consortium (For outreach and development of `sftrack`)  
+**Co-PI** *2019* ($10000) - R Consortium (For 1st stage development of `sftrack`)  
+
+## Presentations
+
+**Boone, M., Joo, R., Basille, M.,** *Introducing sftrack: A framework for Movement data in R*  
+
+>- Ecological Society of America - Virtual (2020)
+
+**Boone, M** *How Citizen Scientists are contributing to Science*  
+
+>- Broward County Master Gardeners Class 2020 - Davie, FL, US (2020) 
+
+**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
+
+>- University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)
+
+**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*  
+
+>- AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**
+- AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**
+
+</br>
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+
+```
+
 ## Posters  
 
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
@@ -168,18 +203,8 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 >- The Delaware Wetlands Conference - Wilmington, DE, US (2015)
 - The Wildlife Society National Conference - Pittsburgh, PA, US (2014)
 
-## Presentations
-
-**Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
-
->- University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)
-
-**Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*  
-
->- AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**
-- AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**
-
 ## Teaching
+*2020* **Instructor** 'Intro to R for Academia' **Workshop for Faculty at Hendrix College** (Conway, AR)  
 *2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
 *2019* **Instructor** 'Intro to R for Ecologists' **Workshop at Florida Atlantic University** (Boca Raton, FL)  
 *2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
@@ -199,6 +224,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 *2007* **Deans List** University of Texas  
 
 ## Memberships (since)
+*2020* **Ecological Society of America**  
 *2013* **The Wildlife Society**  
 *2015* **Association of Field Ornithologists**  
 *2015* **Wilson Ornithological Society**   
@@ -212,15 +238,26 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 # Field Experience
 
-**University of Florida (current employer)**, FL  
+**Data Mananger and Biologist** *August 9, 2018 - Present*  
+**University of Florida Research and Education Center - Ft. Lauderdale**, FL 
 
-> - Trapped over 70 raccoons in a large urban park, adminster anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
+> - Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
+These reports are published online:  
+[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
+[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
+[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)  
+- Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
 
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 **Rocky Mountain Research Station - USFS**, ID  
 
 > -	Supervised three technicians, created schedules, and managed logistics for project site.
 -	Conducted breeding transect surveys, searched for nests, and monitored nest success for White-headed Woodpecker population in the Winema-Fremont National Forest.
+
+**Black Rail Technician** *January 14 - March 31,2018*  
+**Texas State University**, TX  
+
+>- Capture and band Black and Yellow Rails at night and track birds using radio telemetry in the Upper Gulf Coast of Texas.
 
 **Avian Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
@@ -315,6 +352,8 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 **Boating** - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.
 
 **General Animal Identification** - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.
+
+**Vegetation surveys and ID** - Proficient at conducting a variety of vegetation surveys including using robel poles, stem density calculations, DBH measurements, using densiometers, estimating and drawing approximate cover, and identifying plants across the United States with use of guides or keys.  
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
