@@ -204,12 +204,7 @@ These reports are published online:
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL 
 
-> • Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
-These reports are published online:  
-[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
-[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
-[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)  
-• Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
+>• Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
 
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 **Rocky Mountain Research Station - USFS**, ID  

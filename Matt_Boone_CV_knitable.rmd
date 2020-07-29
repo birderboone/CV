@@ -43,7 +43,12 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 >- Manage multiple spatial PostgreSQL databases in lab including database creation, SQL query building, and analysis using PostGIS extensions.
 - Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.
 - Creation, consulting, and managing of multiple software packages in R (detailed below).
-- Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.
+- Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
+- Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.  
+These reports are published online:  
+[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
+[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
+[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)
 
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
@@ -241,11 +246,6 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL 
 
-> - Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
-These reports are published online:  
-[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
-[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
-[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)  
 - Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
 
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
