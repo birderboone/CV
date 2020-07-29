@@ -69,7 +69,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 ### Tracking - CRAN Task View
 **Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 2019)  
 [https://cran.r-project.org/web/views/Tracking.html](https://cran.r-project.org/web/views/Tracking.html)  
-
+[repository for code& checks is on github](https://github.com/rociojoo/CranTaskView-Track)  
 > - Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
 - Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
 
@@ -239,16 +239,6 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 # Field Experience
 
-**Data Mananger and Biologist** *August 9, 2018 - Present*  
-**University of Florida Research and Education Center - Ft. Lauderdale**, FL 
-
-> - Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
-These reports are published online:  
-[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
-[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
-[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)  
-- Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
-
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 Rocky Mountain Research Station - USFS, ID  
 
@@ -277,7 +267,7 @@ Great Basin Bird Observatory, NV
 Maui Forest Bird Recovery Project, HI  
 
 **Field Technician** *July 14 - October 21, 2011*  
-**Curry and Kerlinger, LLC, NY  
+Curry and Kerlinger, LLC, NY  
 
 **Golden-winged Warbler Field Technician** *April 21- July 7, 2011*  
 University of Tennessee, TN  
@@ -300,24 +290,6 @@ Texas A&M University, TX
 **Open Water Scuba Diver Certification** *PADI* (3/2012)  
 **24hr HAZWOPER** *Occupational Safety and Health Administration* (1/2011)  
 **Louisiana Boaters License** *Louisiana DOTD* (1/2011)  
-
-## Field Skills
-
-**Banding (Birds)** - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.
-
-**Tagging (Mammals)** - Trapping medium (raccoon/mongoose) and small mammals with Havahart and Sherman traps. Sedating techniques and proper dosage of medium sized mammals. Handling, working up and tagging of mammals. Attaching radio/gps collars safely and effectively.
-
-**Biological Surveys** - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.
-
-**Navigation** - Proficient navigating to field points using a GPS or map and compass.
-
-**Driving Off-road Vehicles** - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.
-
-**Boating** - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.
-
-**General Animal Identification** - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.
-
-**Vegetation surveys and ID** - Proficient at conducting a variety of vegetation surveys including using robel poles, stem density calculations, DBH measurements, using densiometers, estimating and drawing approximate cover, and identifying plants across the United States with use of guides or keys.  
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
