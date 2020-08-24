@@ -11,6 +11,8 @@ urlcolor: blue
 
 Matthew E. Boone  
 ============================================  
+5791 West Flying Hawk Lane  
+Boise, ID 83709  
 [mttboone@gmail.com](mailto:mttboone@gmail.com)   
 [\@birderboone](https://twitter.com/birderboone)  
 [github.com/birderboone](https://github.com/birderboone)  
@@ -50,6 +52,14 @@ These reports are published online:
 [Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
 [Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)
 
+**Data Science Consultant** *August, 2017 - August 2019*  
+**Porzana Solutions LLC**, IL  
+
+>- Acted as an independent data consultant for mainly academic clients looking for complex data solutions.  
+- Consulted with clients on their research and data questions. Created in depth quotes of costs and deliverables for clients. Met biweekly with clients updating them on status of projects.  
+- Taught data best practices to clients ontop of standard outputs, including best practices for data managment, file naming, and data structures.  
+- Finished projects involved one published package (refsplitr) and two published papers. Details in software and publications.  
+
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
 
@@ -66,17 +76,19 @@ These reports are published online:
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftrack - A movement class for analyzing and visualilizing spatial movement data that incorporates the sf package* **R** (2019)  
 [github.com/mablab/sftrack](https://github.com/mablab/sftrack)  
 
-> - Lead coder on project.
+>- Lead coder on project.
 - Sftrack is a new package defining a central class for movement data that fully incorporates the `sf` package, written in S3 as an upgrade to the `ltraj` class in `AdehabitatLT`. Defines a new standard for movement data in R, incorporating x,y,z,t and a dynamic grouping category.  
 - Funded by a grant from the RConsortium (see more information in Grants).  
+- Over 70 unit tests written with the `testthat` package.  
 - Beta version available on Github, although development is ongoing.
 
 ### Tracking - CRAN Task View
 **Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 2019)  
 [https://cran.r-project.org/web/views/Tracking.html](https://cran.r-project.org/web/views/Tracking.html)  
 
-> - Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
+>- Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
 - Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
+
 ### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](https://github.com/picardis/nestR)  
@@ -93,6 +105,7 @@ These reports are published online:
 > - Wrote code to split reference files into perspective parts as well as partition out author and address information.
 - Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
 - Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
+- Over 70 unit tests written with the `testthat` package.  
 - Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
 
 ### radaR  
@@ -115,7 +128,7 @@ These reports are published online:
 
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
 
-**Linux/UNIX language** *Intermediate* - Administrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
+**Linux/UNIX/Bashbin language** *Intermediate* - Administrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
 
 **HTML/CSS** *Intermediate* - Website coding and styling with cascading style sheets.  
 
@@ -139,6 +152,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 ## Peer-Reviewed Publications  
 
 (In review) **Joo, R., Picardi, S., Boone, M., Clay, T., Patrick, S., Romero-Romero, V., Basille, M.** *A decade of Movement Ecology* [abs/2006.00110v1](https://arxiv.org/abs/2006.00110v1)  
+Methods for this package can be found in the [bookdown here](https://rociojoo.github.io/mov-eco-review)
 
 **Moore, J., Pine, W, III., Fredrick, P., Beck, S., Moreno, M., Dodrill, M., Boone, M., Sturmer, L., Yurek, S.** *Trends in Oyster Populations in the Northeastern Gulf of Mexico: An Assessment of River Discharge and Fishing Effects over Time and Space* **Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science** (2020) 12:191–204. [10.1002/mcf2.10117](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10117)  
 

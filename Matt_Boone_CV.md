@@ -54,6 +54,7 @@ These reports are published online:
 > • Lead coder on project.
 • Sftrack is a new package defining a central class for movement data that fully incorporates the `sf` package, written in S3 as an upgrade to the `ltraj` class in `AdehabitatLT`. Defines a new standard for movement data in R, incorporating x,y,z,t and a dynamic grouping category.  
 • Funded by a grant from the RConsortium (see more information in Grants).  
+• Over 70 unit tests written with the `testthat` package.  
 • Beta version available on Github, although development is ongoing.
 
 ### Tracking - CRAN Task View
@@ -76,6 +77,7 @@ These reports are published online:
 > • Wrote code to split reference files into perspective parts as well as partition out author and address information.
 • Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
+• Over 70 unit tests written with the `testthat` package.  
 • Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
 
 ### RadaR  
