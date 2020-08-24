@@ -63,6 +63,7 @@ These reports are published online:
 
 > • Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
 • Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
+
 ### NestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](https://github.com/picardis/nestR)  
@@ -74,11 +75,11 @@ These reports are published online:
 [ropensci/refsplitr](https://github.com/ropensci/refsplitr)  
 -- Accepted on rOpenSci --   
 
-> • Wrote code to split reference files into perspective parts as well as partition out author and address information.
-• Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
+> • Wrote code to split reference files into perspective parts as well as partition out author and address information.  
+• Created algorithm to group author name based on similar name participles, address proximity, and assorted information.  
 • Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
 • Over 70 unit tests written with the `testthat` package.  
-• Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
+• Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028)).  
 
 ### RadaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
