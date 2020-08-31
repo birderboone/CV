@@ -1,17 +1,27 @@
 ---
 layout: pdf
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
 urlcolor: blue
 ---
 
 
 Matthew E. Boone  
 ============================================  
+5791 West Flying Hawk Lane  
+Boise, ID 83709  
 [mttboone@gmail.com](mailto:mttboone@gmail.com)   
 [\@birderboone](https://twitter.com/birderboone)  
 [github.com/birderboone](https://github.com/birderboone)  
 512.426.7966 
 
------------------ 
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+
+```
 
 # Education  
 **M.S in Wildlife Ecology**, *May 2016* (GPA - 3.90)  
@@ -21,71 +31,87 @@ Dr. Jeffrey J. Buler
 **B.S in Biology - Ecology, Evolution, and Behavior** *May 2009* (GPA - 3.48)  
 **University of Texas**, Austin, TX  
 
------------------ 
+---------------------
 
 # Data Experience  
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL  
-> • Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.  
-• Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.  
-• Creation, consulting, and managing of multiple software packages in R (detailed below).  
-• Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
-• Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.  
+
+>- Manage multiple spatial PostgreSQL databases in lab including database creation, SQL query building, and analysis using PostGIS extensions.
+- Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.
+- Creation, consulting, and managing of multiple software packages in R (detailed below).
+- Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.  
+- Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.  
 These reports are published online:  
 [Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
 [Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-summary/)  
+[Broward County Backyard Bioblitz](https://www.inaturalist.org/projects/broward-backyard-bioblitz-2020)
+
+**Data Science Consultant** *August, 2017 - August 2019*  
+**Porzana Solutions LLC**, IL  
+
+>- Acted as an independent data consultant for mainly academic clients looking for complex data solutions.  
+- Consulted with clients on their research and data questions. Created in depth quotes of costs and deliverables for clients. Met biweekly with clients updating them on status of projects.  
+- Taught data best practices to clients ontop of standard outputs, including best practices for data managment, file naming, and data structures.  
+- Finished projects involved one published package (refsplitr) and two published papers. Details in software and publications.  
 
 **Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
 **Kauai Endangered Seabird Recovery Project**, HI  
-> •	Analyzed field data and created maps using R and ArcGis. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL.  
-•	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.  
-•	Managed nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.  
-•	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R.  
-•	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.  
-•	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R. 
 
-## Software 
+>-	Analyzed field data and created maps using R and ArcGis. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL.
+-	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.
+-	Managed nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.
+-	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R
+-	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
+-	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.
+
+## Software  
 
 ### sftrack
 **Boone, M., Joo, R., Calenge, C., Pebesma, E., Basille, M.** *sftrack - A movement class for analyzing and visualilizing spatial movement data that incorporates the sf package* **R** (2019)  
 [github.com/mablab/sftrack](https://github.com/mablab/sftrack)  
 
-> • Lead coder on project.
-• Sftrack is a new package defining a central class for movement data that fully incorporates the `sf` package, written in S3 as an upgrade to the `ltraj` class in `AdehabitatLT`. Defines a new standard for movement data in R, incorporating x,y,z,t and a dynamic grouping category.  
-• Funded by a grant from the RConsortium (see more information in Grants).  
-• Over 70 unit tests written with the `testthat` package.  
-• Beta version available on Github, although development is ongoing.
+>- Lead coder on project.
+- Sftrack is a new package defining a central class for movement data that fully incorporates the `sf` package, written in S3 as an upgrade to the `ltraj` class in `AdehabitatLT`. Defines a new standard for movement data in R, incorporating x,y,z,t and a dynamic grouping category.  
+- Funded by a grant from the RConsortium (see more information in Grants).  
+- Over 70 unit tests written with the `testthat` package.  
+- Beta version available on Github, although development is ongoing.
 
 ### Tracking - CRAN Task View
 **Joo, R., Boone, M., Sumner, M., Basille, M.** *CRAN Task View: Processing and Analysis of Tracking Data* **R** (created 2019)  
 [https://cran.r-project.org/web/views/Tracking.html](https://cran.r-project.org/web/views/Tracking.html)  
 
-> • Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
-• Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
-### NestR  
+>- Maintainer of Task View - evaluating new tracking packages for addition to taskview.  
+- Wrote code to automatically check if packages pass CRAN checks including those on novel platforms (Github, r-forge, etc).  
+
+### nestR  
 **Picardi, S., Smith, B., Boone, M.** *NestR - Estimation of Bird Nesting from Tracking Data* **R** (created 2018)  
 [github.com/picardis/nestR](https://github.com/picardis/nestR)  
-> • Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.  
-• Helped write Shiny interface to visualuze recursive site visits.  
+
+> - Helped build spatial site selection algorithm that selects recursive site visits and chooses most likely nest sites.
+- Helped write Shiny interface to visualuze recursive site visits.
+- Compendium published in Journal of Movement Ecology (doi: [10.1186/s40462-020-00201-1](https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-020-00201-1))
 
 ### refsplitr  
 **Fournier, A.M.V., Boone, M.E., Stevens, F.R., Bruna, E.E.** *refsplitr: Author  name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.* **R** (created 2018)  
 [ropensci/refsplitr](https://github.com/ropensci/refsplitr)  
 -- Accepted on rOpenSci --   
 
-> • Wrote code to split reference files into perspective parts as well as partition out author and address information.
-• Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
-• Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
-• Over 70 unit tests written with the `testthat` package.  
-• Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
+> - Wrote code to split reference files into perspective parts as well as partition out author and address information.
+- Created algorithm to group author name based on similar name participles, address proximity, and assorted information.
+- Helped write code to map network analysis and spatial plotting of global author/co-author connections.  
+- Over 70 unit tests written with the `testthat` package.  
+- Further compendium published in the Journal of Open Source Software (doi: [10.21105/joss.02028](https://joss.theoj.org/papers/10.21105/joss.02028))
 
-### RadaR  
+### radaR  
 **Boone, M.E., Smolinsky, J.A., Buler, J.J.** *radaR - A package to analyze Level II WSR-88D Weather Data for avian stop-over mapping* **R** (created 2016)  
 [github.com/birderboone/radar](https://github.com/birderboone/radar)  
 -- Now deprecated. Contact Dr. Jeff Buler [(jbuler@udel.edu)](mailto:jbuler@udel.edu) for an updated version --   
-> • Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.  
-• Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.   
+
+> - Translated and updated pre-existing SAS code to R then built code into a package frame work with a workable interface.
+- Package takes raw WSR-88D outputs, creates VADS, summarizes radar returns, and calculates bird densities for use in stopover mapping analysis.  
+- Created novel nightly sampling method that fit flexible non-linear curves to temporal radar densities to calculate approximate sampling moment for stop-over mapping.
 
 ## Computer Skills  
 **R/RStudio** *Expert* - Programming, data analysis, spatial analysis, and package creation.  
@@ -98,25 +124,27 @@ These reports are published online:
 
 **Microsoft Office** *Expert* - Writing reports, entering data, analyzing data, making graphs  
 
-**Linux/UNIX language** *Intermediate* - Administrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
+**Linux/UNIX/Bashbin language** *Intermediate* - Administrative duties on Debian based server. Troubleshooting user issues in Ubuntu. Writing bin/bash script and scripting commands.  
 
-**HTML/CSS** *Intermediate* - Website coding and styling with cascading style sheets.   
+**HTML/CSS** *Intermediate* - Website coding and styling with cascading style sheets.  
 
------------------ 
+---------------------
 
 # Academic Work  
 
 **Graduate Researcher** *November 2013 - May 2016*  
 **Univeristy of Delaware**, DE  
->  • Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.  
-•	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.   
-•	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.   
-•	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.  
-• You can view the [thesis online](http://udspace.udel.edu/handle/19716/19774)  
+
+>  - Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.
+-	Created stopover maps of passerines in the Northeast United States using Level II weather radar to assess the change in stopover distribution of migrants after Hurricane Sandy. Modeled changes in bird density before and after the storm to changes in wind fields, storm surge, and NDVI at 6 radar stations across the Atlantic coast.
+-	Ground truthed radar returns by sky sampling for birds taking off at six sites across New Jersey and Delaware. Created methodology for determining when birds take off at night and when they can be sampled on the radar in R.
+-	Wrote laboratory protocols and methods for processing Level II WSR-88D data in R and calculating exodus timing of migrants via radar that is still being used at the University of Delaware and Patuxent Wildlife Research Center. Created a Package in R summarizing these methods with over 20 different functions.
+- You can view the [thesis online](http://udspace.udel.edu/handle/19716/19774)
 
 ## Peer-Reviewed Publications  
 
 (In review) **Joo, R., Picardi, S., Boone, M., Clay, T., Patrick, S., Romero-Romero, V., Basille, M.** *A decade of Movement Ecology* [abs/2006.00110v1](https://arxiv.org/abs/2006.00110v1)  
+Methods for this package can be found in the [bookdown here](https://rociojoo.github.io/mov-eco-review)
 
 **Moore, J., Pine, W, III., Fredrick, P., Beck, S., Moreno, M., Dodrill, M., Boone, M., Sturmer, L., Yurek, S.** *Trends in Oyster Populations in the Northeastern Gulf of Mexico: An Assessment of River Discharge and Fishing Effects over Time and Space* **Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science** (2020) 12:191–204. [10.1002/mcf2.10117](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10117)  
 
@@ -151,26 +179,36 @@ These reports are published online:
 
 ## Presentations
 
+**Boone, M., Joo, R., Basille, M.,** *Introducing sftrack: A framework for Movement data in R*  
+
+>- Ecological Society of America - Virtual (2020)
+
+**Boone, M** *How Citizen Scientists are contributing to Science*  
+
+>- Broward County Master Gardeners Class 2020 - Davie, FL, US (2020) 
+
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
 
-- University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)  
+>- University of Florida Biodiversity Institute Seminar - Gainesville, FL, US (2019)
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.**, *Assessing the effects of Hurricane Sandy on migratory bird stopover using weather surveillance radar.*  
 
-- AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**  
-- AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**  
+>- AFO/SCO/WOS Joint Annual Meeting - Wolfville, NS, CA (2015) **AFO Travel Award $850**
+- AOU/COS Joint Meeting - Norman, OK, US (2015)  **AOU Travel Award $400**
+
+---------------------
 
 ## Posters  
 
 **Boone, M.E., Hochmair, H., Basille, M.** *Evaluating Citizen Science Data for Biodiversity Research*  
 
-- Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)  
-- Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)  
+>- Greater Everglades Ecosystem Restoration Conference - Ft. Lauderdale, FL, US (2019)
+- Florida chapter of The Wildlife Society - Melbourne, FL, US (2019)
 
 **Boone, M.E., Buler, J.J., Dawson, D.K.** *Using Weather Surveillance Radar to assess the impacts of Hurricane Sandy on migratory birds.*   
 
-- The Delaware Wetlands Conference - Wilmington, DE, US (2015)  
-- The Wildlife Society National Conference - Pittsburgh, PA, US (2014) 
+>- The Delaware Wetlands Conference - Wilmington, DE, US (2015)
+- The Wildlife Society National Conference - Pittsburgh, PA, US (2014)
 
 ## Teaching
 *2020* **Instructor** 'Intro to R for Academia' **Workshop for Faculty at Hendrix College** (Conway, AR)  
@@ -199,74 +237,93 @@ These reports are published online:
 *2015* **Wilson Ornithological Society**   
 *2015* **American Ornithologists Society**  
 
------------------ 
+---------------------
 
 # Field Experience
 
 **Data Mananger and Biologist** *August 9, 2018 - Present*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL 
 
->• Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
+- Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
 
 **Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
 **Rocky Mountain Research Station - USFS**, ID  
-> •	Supervised three technicians, created schedules, and managed logistics for project site.  
-•	Conducted breeding transect surveys, searched for nests, and monitored nest success for White-headed Woodpecker population in the Winema-Fremont National Forest.
+
+> -	Supervised three technicians, created schedules, and managed logistics for project site.
+-	Conducted breeding transect surveys, searched for nests, and monitored nest success for White-headed Woodpecker population in the Winema-Fremont National Forest.
+
+**Black Rail Technician** *January 14 - March 31,2018*  
+**Texas State University**, TX  
+
+>- Capture and band Black and Yellow Rails at night and track birds using radio telemetry in the Upper Gulf Coast of Texas.
 
 **Avian Crew Leader** *May 1, 2017 – September 30, 2017*  
 **National Council for Air and Stream Improvement**, OR  
 *Intensive Forest Management*    
-> •	Supervised two technicians including planning daily logistics and data management  
-•	Trained technicians on identifying 80+ birds of the Pacific Northwest by sight and sound  
-•	Conducted breeding point counts in cut timber stands in the Coast Range of Oregon  
+
+> -	Supervised two technicians including planning daily logistics and data management
+-	Trained technicians on identifying 80+ birds of the Pacific Northwest by sight and sound
+-	Conducted breeding point counts in cut timber stands in the Coast Range of Oregon 
 
 *Retained Structures Project*  
-> •	Trapped and ear tagged small mammals of the Cascades using Sherman and Tomahawk traps.  
-•	Marked and measured created tree plots by measuring DBH and height of trees.  
+
+> -	Trapped and ear tagged small mammals of the Cascades using Sherman and Tomahawk traps.
+-	Marked and measured created tree plots by measuring DBH and height of trees.
 
 **Marshbird Field Technician** *May 1 – August 15, 2014*  
 **University of Delaware**, DE  
-> •	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol.  
+
+> -	Performed playback surveys for secretive marsh birds under the National Marsh Bird Protocol.
 
 **Migratory Rail Field Technician** *August 7 - October 21, 2012/2013*  
 **Arkansas Cooperative Fish and Wildlife Research Unit**, AR  
-> •	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.  
+
+> -	Performed nightly distance sampling of migratory rails on ATVs in managed wetlands throughout Missouri. Captured and banded secretive birds using a hand-held net.
 
 **Willow Flycatcher Field Technician** *May 7 – August 15, 2013*  
 **SWCA Consulting**, NV  
-> •	Territory and nest searching for the endangered Southwestern Willow Flycatcher in the Lower Colorado River drainage basin. Drove ATV's across desert and river corridors.  
+
+> -	Territory and nest searching for the endangered Southwestern Willow Flycatcher in the Lower Colorado River drainage basin. Drove ATV's across desert and river corridors.
 
 **Yellow Rail Field Technician** *December 7, 2012 - March 31, 2013*  
 **Mississippi State University**, MS  
-> •	Surveyed for Yellow Rails using drag-lining in Pine Savannas of coastal Mississippi and Alabama. Captured, banded, and tracked Yellow Rails using radio telemetry.  
+
+> -	Surveyed for Yellow Rails using drag-lining in Pine Savannas of coastal Mississippi and Alabama. Captured, banded, and tracked Yellow Rails using radio telemetry.
 
 **Yellow-billed Cuckoo Field Surveyor** *July 7 - August 21, 2012*  
 **Great Basin Bird Observatory**, NV  
-> •	Conducted playback surveys for the federally endangered Southwestern Yellow-Billed Cuckoo.  
+
+> -	Conducted playback surveys for the federally endangered Southwestern Yellow-Billed Cuckoo.
 
 **Avian Field Research Assistant** *February 1 - June 30, 2012*  
 **Maui Forest Bird Recovery Project**, HI  
-> •	Nest searching, band re-sighting, and territory mapping of the federally endangered Maui Parrotbill. Included backcountry camping and living in close quarters with other technicians for 10 days at a time.
+
+> -	Nest searching, band re-sighting, and territory mapping of the federally endangered Maui Parrotbill. Included backcountry camping and living in close quarters with other technicians for 10 days at a time.
 
 **Field Technician** *July 14 - October 21, 2011*  
 **Curry and Kerlinger, LLC**, NY  
-> •	Performed daily bird and bat mortality searches at 48 wind turbines in Western New York.  
+
+> -	Performed daily bird and bat mortality searches at 48 wind turbines in Western New York.
 
 **Golden-winged Warbler Field Technician** *April 21- July 7, 2011*  
 **University of Tennessee**, TN  
-> •	Conduct Nest searched, band resighted, and performed presence absence play back surveys for the declining Golden-Winged Warbler in the Cumberland Mountains.  
+
+> -	Conduct Nest searched, band resighted, and performed presence absence play back surveys for the declining Golden-Winged Warbler in the Cumberland Mountains.
 
 **Field Investigator** *January 3 - March 21, 2011*  
 **Louisiana State University**, LA  
-> •	Conducted mortality searches for waterfowl along ocean transects in the Mississippi River Delta and Gulf of Mexico after the Deep Water Horizon oil spill. Lived on a remote island camp with one other technician. Drove mud-motor and small skiffs in marsh and open water habitat.  
+
+> -	Conducted mortality searches for waterfowl along ocean transects in the Mississippi River Delta and Gulf of Mexico after the Deep Water Horizon oil spill. Lived on a remote island camp with one other technician. Drove mud-motor and small skiffs in marsh and open water habitat.
 
 **Freshwater Mussel Field Technician** *July 7 - September 14, 2010*  
 **Texas Agrilife Extensions Service**, TX  
-> •	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas.  
+
+> -	Performed presence absence surveys for freshwater mussels in tributaries of the Colorado River in central Texas.
 
 **Golden-cheeked Warbler Field Technician** *March 14 - July 7, 2010*  
 **Texas A&M University**, TX  
-> •	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.  
+
+> -	Territory mapped and performed point counts for the federally endangered Black-capped Vireo and Golden-Cheeked Warbler in Live Fire ranges on Fort Hood Military Base.
 
 ## Professional Licenses and Certifications
 **Rabies Vaccine** (8/2018)  
@@ -280,17 +337,37 @@ These reports are published online:
 
 ## Field Skills
 
-**Banding (Birds)** - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.  
+**Banding (Birds)** - Experience setting up mist nests, extracting birds, measuring, and banding passerines, rails, owls, and seabirds. Extracted approximately 350 birds and banded approximately 100.
 
-**Tagging (Mammals)** - Trapping medium (raccoon/mongoose) and small mammals with Havahart and Sherman traps. Sedating techniques and proper dosage of medium sized mammals. Handling, working up and tagging of mammals. Attaching radio/gps collars safely and effectively.  
+**Tagging (Mammals)** - Trapping medium (raccoon/mongoose) and small mammals with Havahart and Sherman traps. Sedating techniques and proper dosage of medium sized mammals. Handling, working up and tagging of mammals. Attaching radio/gps collars safely and effectively.
 
-**Biological Surveys** - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.  
+**Biological Surveys** - Conduct biological surveys targeted to monitor wildlife populations including: point counts, line transects, territory mapping, nest searching, and drag lining for a variety of bird species in woodland and marsh habitat.
 
-**Navigation** - Proficient navigating to field points using a GPS or map and compass.  
+**Navigation** - Proficient navigating to field points using a GPS or map and compass.
 
-**Driving Off-road Vehicles** - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.  
+**Driving Off-road Vehicles** - Experience driving in off-road, muddy, and rocky regions using cars, ATVs, and OHVs. Can effectively troubleshoot and maintain small motors.
 
-**Boating** - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.  
+**Boating** - Loading/unloading boats from trailers and navigating open water and narrow marsh waterways using small skiffs and kayaks.
 
-**General Animal Identification** - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.  
+**General Animal Identification** - Proficient in identifying all wildlife of the United States including birds, mammals, reptiles, and amphibians by sight and sound.
 
+**Vegetation surveys and ID** - Proficient at conducting a variety of vegetation surveys including using robel poles, stem density calculations, DBH measurements, using densiometers, estimating and drawing approximate cover, and identifying plants across the United States with use of guides or keys.  
+
+---------------------
+
+# References  
+**Dr. Mathieu Basille**, Assistant Professor, *University of Florida Research and Education Center - Ft. Lauderdale, FL*
+
+>- basille@ufl.edu, (786.516.4973)
+
+**John Dudley**, Ecologist, *US Forest Service (Rocky Mountain Research Station) - Boise, ID*
+
+>- jdudley@fs.fed.us, (928.853.7242)
+
+**Dr. Jake Verschuyl**, Director of Forestry Research, *National Council for Air and Stream Improvement - Anacortes, WA*
+
+>- jverschuyl@ncasi.org, (360.391.4988)
+
+**Dr. Jeff Buler**, Associate Professor of Wildlife Ecology, *University of Delaware - Newark, DE*
+
+>- jbuler@udel.edu, (302.831.1306)
