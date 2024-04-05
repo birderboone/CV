@@ -1,9 +1,9 @@
 ---
 layout: pdf
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
   pdf_document: default
 urlcolor: blue
 ---
@@ -19,7 +19,7 @@ Boise, ID 83709
 512.426.7966 
 
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('images/star_line3.png')
 
 ```
 
@@ -33,7 +33,7 @@ Dr. Jeffrey J. Buler
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('images/star_line3.png')
 
 ```
 
@@ -133,8 +133,8 @@ These reports are published online:
 **HTML/CSS** *Intermediate* - Website coding and styling with cascading style sheets.  
 
 </br>
- ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('images/star_line3.png')
 
 ```
 
@@ -151,7 +151,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 ## Peer-Reviewed Publications  
 
-(In review) **Joo, R., Picardi, S., Boone, M., Clay, T., Patrick, S., Romero-Romero, V., Basille, M.** *A decade of Movement Ecology* [abs/2006.00110v1](https://arxiv.org/abs/2006.00110v1)  
+**Joo, R., Picardi, S., Boone, M., Clay, T., Patrick, S., Romero-Romero, V., Basille, M.** *A decade of Movement Ecology* [abs/2006.00110v1](https://arxiv.org/abs/2006.00110v1)  
 Methods for this package can be found in the [bookdown here](https://rociojoo.github.io/mov-eco-review)
 
 **Moore, J., Pine, W, III., Fredrick, P., Beck, S., Moreno, M., Dodrill, M., Boone, M., Sturmer, L., Yurek, S.** *Trends in Oyster Populations in the Northeastern Gulf of Mexico: An Assessment of River Discharge and Fishing Effects over Time and Space* **Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science** (2020) 12:191–204. [10.1002/mcf2.10117](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10117)  
@@ -206,7 +206,7 @@ Methods for this package can be found in the [bookdown here](https://rociojoo.gi
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('images/star_line3.png')
 
 ```
 
@@ -223,6 +223,9 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 - The Wildlife Society National Conference - Pittsburgh, PA, US (2014)
 
 ## Teaching
+
+*2024* **Instructor** 'Going wild with R' **Workshop at Idaho Chapter of the Wildlife Society** (Coeur d'Alene, ID) 
+*2023* **Instructor** 'Going wild with R' **Workshop at Idaho Chapter of the Wildlife Society** (Boise, ID) 
 *2020* **Instructor** 'Intro to R for Academia' **Workshop for Faculty at Hendrix College** (Conway, AR)  
 *2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
 *2019* **Instructor** 'Intro to R for Ecologists' **Workshop at Florida Atlantic University** (Boca Raton, FL)  
@@ -251,7 +254,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('images/star_line3.png')
 
 ```
 
@@ -371,7 +374,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('images/star_line3.png')
 
 ```
 

@@ -1,9 +1,9 @@
 ---
 layout: pdf
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
   pdf_document: default
 urlcolor: blue
 ---
@@ -17,7 +17,7 @@ Matthew E. Boone
 512.426.7966 
 
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
@@ -31,7 +31,8 @@ Dr. Jeffrey J. Buler
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+#print(getwd())
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
@@ -256,8 +257,8 @@ requiring maintaining relationship with land owners and contacting them before a
 **Vegetation surveys and ID** - Proficient at conducting a variety of vegetation surveys including using robel poles, stem density calculations, DBH measurements, using densiometers, estimating and drawing approximate cover, and identifying trees ,shrubs, and wetlands plants across the United States with use of guides or keys. Includes ability to identify and work in sagebrush habitats.
 
 </br>
- ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
@@ -317,8 +318,8 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 **Markdown/Latek** *Intermediate* - Typesetting and creating reports  
 
 </br>
- ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+```{r, echo=FALSE, fig.align="center", out.width='800px'}
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
@@ -409,7 +410,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
@@ -425,7 +426,7 @@ knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
 
 </br>
 ```{r, echo=FALSE, fig.align="center", out.width='800px'}
-knitr::include_graphics('/home/matt/r_programs/CV/images/star_line3.png')
+knitr::include_graphics('../images/star_line3.png')
 
 ```
 
