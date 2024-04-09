@@ -16,68 +16,81 @@ Data Management Team Lead
 Idaho Department of Fish and Game  
 (208) 287-2907
 
-# Education  
-**M.S in Wildlife Ecology**, *May 2016* (GPA - 3.90)  
+## Education  
+**M.S in Wildlife Ecology**, *May 2016*   
 **University of Delaware** *Department of Entomology and Wildlife Ecology*  
 Dr. Jeffrey J. Buler  
 [*Assessing the effects of Hurricane Sandy on fall migration in the North East United States using Weather Surveillance Radar.* ](http://udspace.udel.edu/handle/19716/19774)  
 
-**B.S in Biology - Ecology, Evolution, and Behavior** *May 2009* (GPA - 3.48)  
+**B.S in Biology - Ecology, Evolution, and Behavior** *May 2009*  
 **University of Texas**, Austin, TX  
 
-# Experience  
+## Experience  
 
-**Data Management Team Lead** *Nov 1, 2020 - Present*  
+**Data Management Team Lead** *Nov 2020 - Present*  
 **Idaho Department of Fish and Game** - Boise, ID  
-> - Stuff  
-- Things  
-- More Stuff  
+Lead the strategic management and dissemination of biological data layers for state and federal conservation efforts, focusing on Species of Greatest Conservation Need (SGCN).
 
-**Data Mananger and Biologist** *August 9, 2018 - Present*  
+> - Supervise a team of five staff members, overseeing data import processes and methodologies for the Idaho Natural Heritage Program database.
+- Work with state and federal Biologists to create sustainable and smart solutions to data collection methods and analysis of SGCN priority projects.
+- Pioneered the Idaho conservation data science teaching program, fostering collaboration with The Wildlife Society and Idaho Fish and Game to provide data science education to biologists and students statewide.
+- Developed and manage the innovative IDFG data request system, optimizing data delivery through regional technical assistance and subject matter experts to create tailored solutions for customers.
+
+**Data Mananger and Biologist** *August 2018 - Nov 2020*  
 **University of Florida Research and Education Center - Ft. Lauderdale**, FL  
+Managed databases and conducted data analysis for a research lab focused on urban ecology in South Florida.
 
-> - Manage multitple spatial PostgreSQL databases in lab including database creation, sql query building, and analysis using PostGIS extensions.
-- Analyze data sets and create high-quality publication quality maps and graphics using R and QGIS for lab projects.
-- Creation, consulting, and managing of multiple software packages in R (detailed below).
-- Manage IT workload for multiple computers running Ubuntu and lab server running Debian builds.
-- Lead naturalist and logistic support for bi-annual bioblitzes conducted in urban parks across Broward County, Florida. Teach volunteers about collecting data via iNaturalist, lead walks for bioblitz with volunteers, and coordinate email lists and summary reports for the public.
-These reports are published online:  
-[Tree Tops Park](https://mablab.org/post/2018-11-07-bioblitz-summary/)  
-[Quiet Waters Park](https://mablab.org/post/qwp-bioblitz-sumdmary/)
-- Trapped over 70 raccoon in a large urban park, administered anesthesia via carefully measured doses, procure blood samples, and apply radio/gps collars to selected individuals. Collect GPS data from the field via a base-station and radio antennae weekly.
+> - Worked closely with extension center staff and partners to bolster public engagement in biodiversity and citizen science initiatives through the creation of informative articles for both academic and public audiences.
+- Helped create and facilitate the University of Florida Extensions Center data science initiative where university staff teach data science through extensions centers across the state of Florida.
+- Led logistical support for bi-annual bioblitzes in urban parks across South Florida, including volunteer training and data collection and management in iNaturalist.
 
-**Data Analyst and Database Manager** *April 15, 2016 – April 13, 2017*  
-**Kauai Endangered Seabird Recovery Project**, HI  
-
-> -	Analyzed field data and created maps using R and ArcGis. Interfaced with and analyzed data from a myriad of technologies including Audio Recording Units, satellite and geolocator tags, Recoynx Field Cameras, and LiDAR. Fixed, maintained, and expanded two current databases using Microsoft Access and SQL.
--	Prepared 12 annual scientific reports, helped write manuscripts, and lead outreach events for public.
--	Managed nine technicians in office, monitored their data entry, and created projects tailored to each technician's strengths. Helped with field logistics, helicopter flights, and schedules.
--	Created a habitat model for the endangered Band-rumped Storm-Petrel using ten years of auditory survey and Audio Recorded Unit data using boosted regression trees in R
--	Created an algorithm to calculate exposure height of powerline wires across the island of Kauai using LiDAR and Photogrammetry data in R. Required dynamically creating 100,000 geospatial polygons tailored to individual vectors analyzed entirely in an R environment.
--	Analyzed movement and wintering range of 12 satellite tagged juvenile Newell’s Shearwaters using dynamic Brownian Bridge Movement Model in R.
-- Monitored seabird colonies in the mountainous regions of Kauai. This included hiking on very steep
-terrain in extremely wet conditions. Safely traversed across roped sections on mountain. Performed burrow checks on nesting success of endangered seabirds. Deployed and maintained Automated Recording Units and Reconyx wildlife cameras in the field for monitoring of colonies.
-
-**Woodpecker Crew Leader** *May 1, 2018 – August 9, 2018*  
+**White-headed Woodpecker Crew Leader** *May 2018 – August 2018*  
 **Rocky Mountain Research Station - USFS**, ID  
+Managed field logistics for three field technicians for an established project on woodpecker monitoring.   
 
-**Avian Crew Leader** *May 1, 2017 – September 30, 2017*  
+> - Effectively managed the team workload, resulting in our team being the only one out of four not requiring extra hours to complete the project.
+
+**Avian Crew Leader** *May 2017 – September 2017*  
 **National Council for Air and Stream Improvement**, OR  
+Managed field logistics for two technicians of long term established point count project across managed timberland in the Coast Range of Oregon.  
+
+> - Developed a database and implemented check queries to effectively manage field data, which remains in use for the project to this day.
+
+**Data Analyst and Database Manager** *April 2016 – April 2017*  
+**Kauai Endangered Seabird Recovery Project**, HI  
+Coordinated data collection and field logistics for endangered seabird monitoring projects, including Newell's Shearwater and Hawaiian Petrel, which inhabit the mountain cliffs of Kauai for nesting.  
+
+> - Managed a team of nine technicians in the office, ensuring accurate data entry and tailored projects based on each technician's strengths.
 
 ## Teaching
 
-*2024* **Instructor** 'Going wild with R' **Workshop at Idaho Chapter of the Wildlife Society** (Coeur d'Alene, ID)  
-*2023* **Instructor** 'Going wild with R' **Workshop at Idaho Chapter of the Wildlife Society** (Boise, ID)  
-*2020* **Instructor** 'Intro to R for Academia' **Workshop for Faculty at Hendrix College** (Conway, AR)  
-*2019* **Instructor** 'Data Management with SQL for Ecologists' **Workshop at Tropical REC - UF** (Homested, FL)  
-*2019* **Instructor** 'Intro to R for Ecologists' **Workshop at Florida Atlantic University** (Boca Raton, FL)  
-*2018* **Instructor** 'Taking the Next Step with R: Data Management, Publication Quality Graphics and Function Building' **Workshop AOS meeting** (Tuscon, AZ)  
-*2017* **Instructor** ‘Graphing and Programming in R’ **Workshop at AOSSCO meeting** (East Lansing, MI)    
-*2015* **Instructor** 'Taking R to the Next Level' **Workshop at AOU/COS meeting** (Norman, OK)  
-*2015* **Guest Lecturer** ‘Programming and Data Processing in R’ (University of Delaware)    
-*2014* **Guest Lecturer** Wetland policy and management in the United States **Habitat Management class** (University of Delaware)     
+*2024* **Instructor:** 'Going wild with R' at **Idaho Chapter of the Wildlife Society** - Coeur d'Alene, ID  
+*2023* **Instructor:** 'Going wild with R' at **Idaho Chapter of the Wildlife Society** - Boise, ID  
+*2020* **Instructor:** 'Intro to R for Academia' at **Faculty at Hendrix College** - Conway, AR  
+*2019* **Instructor:** 'Data Management with SQL for Ecologists' at **Tropical REC - UF** - Homested, FL  
+*2019* **Instructor:** 'Intro to R for Ecologists' at **Florida Atlantic University** - Boca Raton, FL  
+*2018* **Instructor:** 'Taking the Next Step with R' at **AOS meeting** - Tuscon, AZ  
+*2017* **Instructor:** 'Graphing and Programming in R' at **AOS/SCO meeting** - East Lansing, MI    
+*2015* **Instructor:** 'Taking R to the Next Level' at **AOU/COS meeting** - Norman, OK  
+*2015* **Guest Lecturer:** ‘Programming and Data Processing in R’ at **University of Delaware**    
+*2014* **Guest Lecturer:** 'Wetland policy and management in the United States' at **University of Delaware**   
 
+<!--
+
+```{r, echo=F, results='show'}
+data <- read.csv('C:/Users/birde/Documents/Teaching_exp.txt')
+knitr::kable(data,"latex")
+library(flextable)
+library(dplyr)
+flextable(data) %>% 
+  theme_zebra()
+```
+-->
 ## Volunteer/Service
 
 *2024 - Present* **Treasurer** *Idaho Chapter of The Wildlife Society*  
 *2014 - 2021* **eBird Regional Editor** *eBird.org* – Comal and Guadalupe TX counties  
+
+## Leadership classes
+
+*2021* **DHR Supervisory Academy** - 3 day course on leadership taught by Idaho Department of Human Resources
